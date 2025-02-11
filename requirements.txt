@@ -1,0 +1,5 @@
+Pillow
+streamlit
+pandas
+together
+e2b-code-interpreter
