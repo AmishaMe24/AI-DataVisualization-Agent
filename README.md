@@ -4,6 +4,8 @@
 
 This Streamlit application provides an AI-powered data visualization agent that allows users to upload a CSV dataset and ask questions about it. The agent uses a large language model (LLM) from Together AI to generate responses and Python code to analyze the data and create visualizations, executed in a secure E2B (End-to-End Box) sandbox.
 
+Live link: https://amishame24-ai-datavisualizat-ai-data-visualisation-agent-cmhrlr.streamlit.app/
+
 ## Features
 
 *   **Interactive Data Exploration:**  Upload CSV files and explore the data with an interactive Streamlit interface.
